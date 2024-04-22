@@ -1,1 +1,1 @@
-# Schematic and PCB design for nixie clock in EAGLE
+# Schematic and PCB design for nixie clock designed in EAGLE
